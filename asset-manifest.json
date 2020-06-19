@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moviedb-insta/static/css/main.5b09f67f.chunk.css",
+    "main.js": "/moviedb-insta/static/js/main.c1e57960.chunk.js",
+    "main.js.map": "/moviedb-insta/static/js/main.c1e57960.chunk.js.map",
+    "runtime-main.js": "/moviedb-insta/static/js/runtime-main.cd00e7c6.js",
+    "runtime-main.js.map": "/moviedb-insta/static/js/runtime-main.cd00e7c6.js.map",
+    "static/js/2.3ded73e4.chunk.js": "/moviedb-insta/static/js/2.3ded73e4.chunk.js",
+    "static/js/2.3ded73e4.chunk.js.map": "/moviedb-insta/static/js/2.3ded73e4.chunk.js.map",
+    "index.html": "/moviedb-insta/index.html",
+    "precache-manifest.4e73faa32fee5b0a7dbd0fe77e9992d3.js": "/moviedb-insta/precache-manifest.4e73faa32fee5b0a7dbd0fe77e9992d3.js",
+    "service-worker.js": "/moviedb-insta/service-worker.js",
+    "static/css/main.5b09f67f.chunk.css.map": "/moviedb-insta/static/css/main.5b09f67f.chunk.css.map",
+    "static/js/2.3ded73e4.chunk.js.LICENSE.txt": "/moviedb-insta/static/js/2.3ded73e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd00e7c6.js",
+    "static/js/2.3ded73e4.chunk.js",
+    "static/css/main.5b09f67f.chunk.css",
+    "static/js/main.c1e57960.chunk.js"
+  ]
+}
